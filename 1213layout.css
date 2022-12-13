@@ -1,0 +1,56 @@
+*{
+    margin: 10px;
+}
+#wrap {
+    border: 1px solid red;
+    margin: 0 auto;
+    padding: 10px;
+    width: 1000px;
+}
+header {
+    width: 70%;
+    background: #ccc;
+    padding: 10px;
+    float: left;
+}
+.box1 {
+    width: 70%;
+    height: 150px;
+    background: pink;
+    padding: 10px;
+}
+aside {
+    width: 23.6%;
+    height: 792px;
+    border: 1px solid blue;
+    float: right;
+}
+section {
+    width: 70%;
+    border: 1px solid green;
+    padding: 10px;
+    float: left;
+}
+.box2 {
+    width: 70%;
+    height: 150px;
+    background: green;
+    margin-bottom: 20px;
+    float: right;
+}
+.box3 {
+    width: 70%;
+    height: 150px;
+    background: green;
+    float: left;
+}
+footer {
+    float: left;
+    width: 70%;
+    height: 150px;
+    border: 1px solid green;
+    padding: 10px;
+}
+.box4 {
+    clear: both;
+}
